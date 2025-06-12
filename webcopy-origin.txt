@@ -1,0 +1,656 @@
+Uri: https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Kodchasan:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Architects+Daughter:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.6.2
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/architectsdaughter/v19/KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvfY4.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\architectsdaughter\v19\KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvfY4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/architectsdaughter/v19/KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvTYlg5g.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\architectsdaughter\v19\KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvTYlg5g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/kodchasan/v19/1cX0aUPOAJv9sG4I-DJee1KggQ.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\kodchasan\v19\1cX0aUPOAJv9sG4I-DJee1KggQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/kodchasan/v19/1cX0aUPOAJv9sG4I-DJeI1OggQ.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\kodchasan\v19\1cX0aUPOAJv9sG4I-DJeI1OggQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/kodchasan/v19/1cX0aUPOAJv9sG4I-DJeM1SggQ.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\kodchasan\v19\1cX0aUPOAJv9sG4I-DJeM1SggQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/kodchasan/v19/1cX0aUPOAJv9sG4I-DJeR1CggQ.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\kodchasan\v19\1cX0aUPOAJv9sG4I-DJeR1CggQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/kodchasan/v19/1cX0aUPOAJv9sG4I-DJeV1WggQ.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\kodchasan\v19\1cX0aUPOAJv9sG4I-DJeV1WggQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/kodchasan/v19/1cX3aUPOAJv9sG4I-DJWjXGA.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\kodchasan\v19\1cX3aUPOAJv9sG4I-DJWjXGA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/kodchasan/v19/1cXqaUPOAJv9sG4I-DJWjUk8hOCs.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\kodchasan\v19\1cXqaUPOAJv9sG4I-DJWjUk8hOCs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/kodchasan/v19/1cXqaUPOAJv9sG4I-DJWjUksg-Cs.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\kodchasan\v19\1cXqaUPOAJv9sG4I-DJWjUksg-Cs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/kodchasan/v19/1cXqaUPOAJv9sG4I-DJWjUl0guCs.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\kodchasan\v19\1cXqaUPOAJv9sG4I-DJWjUl0guCs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/kodchasan/v19/1cXqaUPOAJv9sG4I-DJWjUlIgOCs.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\kodchasan\v19\1cXqaUPOAJv9sG4I-DJWjUlIgOCs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/kodchasan/v19/1cXqaUPOAJv9sG4I-DJWjUlYheCs.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\kodchasan\v19\1cXqaUPOAJv9sG4I-DJWjUlYheCs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/kodchasan/v19/1cXxaUPOAJv9sG4I-DJmjw.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\kodchasan\v19\1cXxaUPOAJv9sG4I-DJmjw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v35/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\robotoslab\v35\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v35/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\robotoslab\v35\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v35/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\robotoslab\v35\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v35/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\robotoslab\v35\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v35/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\robotoslab\v35\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v35/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\robotoslab\v35\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v35/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\robotoslab\v35\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v35/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\robotoslab\v35\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v35/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\s\robotoslab\v35\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://wojakthewanker.com/
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\index.htm
+Content Type: text/html
+
+Uri: https://wojakthewanker.com/comments/feed/
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://wojakthewanker.com/feed/
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://wojakthewanker.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/css/arrow-left.svg
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\css\arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://wojakthewanker.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/css/arrow-right.svg
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\css\arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://wojakthewanker.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/css/eae.min.css?ver=1.13.7
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\css\eae.min.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/digit-sep-svg.svg
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\digit-sep-svg.svg
+Content Type: image/svg+xml
+
+Uri: https://wojakthewanker.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/digits-svg-alpha.svg
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\digits-svg-alpha.svg
+Content Type: image/svg+xml
+
+Uri: https://wojakthewanker.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/animated-main.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\js\animated-main.min.js
+Content Type: application/x-javascript
+
+Uri: https://wojakthewanker.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/eae.min.js?ver=1.13.7
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\js\eae.min.js
+Content Type: application/x-javascript
+
+Uri: https://wojakthewanker.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/iconHelper.js?ver=1.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\js\iconHelper.js
+Content Type: application/x-javascript
+
+Uri: https://wojakthewanker.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/particles.min.js?ver=2.0.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\js\particles.min.js
+Content Type: application/x-javascript
+
+Uri: https://wojakthewanker.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/magnific.min.js?ver=1.1.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\lib\magnific.min.js
+Content Type: application/x-javascript
+
+Uri: https://wojakthewanker.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/peel/peel.css?ver=1.13.7
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\lib\peel\peel.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/vegas/vegas.min.css?ver=2.4.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\lib\vegas\vegas.min.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/vegas/vegas.min.js?ver=2.4.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\lib\vegas\vegas.min.js
+Content Type: application/x-javascript
+
+Uri: https://wojakthewanker.com/wp-content/plugins/addon-elements-for-elementor-page-builder/build/index.min.js?ver=1.13.7
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\addon-elements-for-elementor-page-builder\build\index.min.js
+Content Type: application/x-javascript
+
+Uri: https://wojakthewanker.com/wp-content/plugins/copy-the-code/assets/css/copy-inline.css?ver=4.0.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\copy-the-code\assets\css\copy-inline.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/plugins/copy-the-code/assets/js/clipboard.js?ver=4.0.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\copy-the-code\assets\js\clipboard.js
+Content Type: application/x-javascript
+
+Uri: https://wojakthewanker.com/wp-content/plugins/copy-the-code/assets/js/copy-inline.js?ver=4.0.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\copy-the-code\assets\js\copy-inline.js
+Content Type: application/x-javascript
+
+Uri: https://wojakthewanker.com/wp-content/plugins/copy-the-code/classes/blocks/assets/css/style.css?ver=4.0.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\copy-the-code\classes\blocks\assets\css\style.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/plugins/copy-the-code/classes/blocks/assets/js/core.js?ver=4.0.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\copy-the-code\classes\blocks\assets\js\core.js
+Content Type: application/x-javascript
+
+Uri: https://wojakthewanker.com/wp-content/plugins/copy-the-code/classes/elementor/widgets/ai-prompt-generator/script.js?ver=4.0.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\copy-the-code\classes\elementor\widgets\ai-prompt-generator\script.js
+Content Type: application/x-javascript
+
+Uri: https://wojakthewanker.com/wp-content/plugins/copy-the-code/classes/elementor/widgets/ai-prompt-generator/style.css?ver=4.0.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\copy-the-code\classes\elementor\widgets\ai-prompt-generator\style.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/plugins/copy-the-code/classes/elementor/widgets/blockquote/style.css?ver=4.0.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\copy-the-code\classes\elementor\widgets\blockquote\style.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/plugins/copy-the-code/classes/elementor/widgets/code-snippet/style.css?ver=4.0.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\copy-the-code\classes\elementor\widgets\code-snippet\style.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/plugins/copy-the-code/classes/elementor/widgets/contact-information/style.css?ver=4.0.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\copy-the-code\classes\elementor\widgets\contact-information\style.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/plugins/copy-the-code/classes/elementor/widgets/copy-icon/style.css?ver=4.0.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\copy-the-code\classes\elementor\widgets\copy-icon\style.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/plugins/copy-the-code/classes/elementor/widgets/coupon/script.js?ver=4.0.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\copy-the-code\classes\elementor\widgets\coupon\script.js
+Content Type: application/x-javascript
+
+Uri: https://wojakthewanker.com/wp-content/plugins/copy-the-code/classes/elementor/widgets/coupon/style.css?ver=4.0.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\copy-the-code\classes\elementor\widgets\coupon\style.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/plugins/copy-the-code/classes/elementor/widgets/deal/script.js?ver=4.0.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\copy-the-code\classes\elementor\widgets\deal\script.js
+Content Type: application/x-javascript
+
+Uri: https://wojakthewanker.com/wp-content/plugins/copy-the-code/classes/elementor/widgets/deal/style.css?ver=4.0.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\copy-the-code\classes\elementor\widgets\deal\style.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/plugins/copy-the-code/classes/elementor/widgets/email-address/style.css?ver=4.0.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\copy-the-code\classes\elementor\widgets\email-address\style.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/plugins/copy-the-code/classes/elementor/widgets/email-sample/style.css?ver=4.0.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\copy-the-code\classes\elementor\widgets\email-sample\style.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/plugins/copy-the-code/classes/elementor/widgets/message/style.css?ver=4.0.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\copy-the-code\classes\elementor\widgets\message\style.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/plugins/copy-the-code/classes/elementor/widgets/phone-number/style.css?ver=4.0.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\copy-the-code\classes\elementor\widgets\phone-number\style.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/plugins/copy-the-code/classes/elementor/widgets/shayari/style.css?ver=4.0.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\copy-the-code\classes\elementor\widgets\shayari\style.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/plugins/copy-the-code/classes/elementor/widgets/sms/style.css?ver=4.0.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\copy-the-code\classes\elementor\widgets\sms\style.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/plugins/copy-the-code/classes/elementor/widgets/table/style.css?ver=4.0.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\copy-the-code\classes\elementor\widgets\table\style.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/plugins/copy-the-code/classes/elementor/widgets/wish/style.css?ver=4.0.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\copy-the-code\classes\elementor\widgets\wish\style.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/plugins/copy-the-code/classes/gutenberg/blocks/copy-button/js/frontend.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\copy-the-code\classes\gutenberg\blocks\copy-button\js\frontend.js
+Content Type: application/x-javascript
+
+Uri: https://wojakthewanker.com/wp-content/plugins/copy-the-code/classes/gutenberg/blocks/copy-icon/js/frontend.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\copy-the-code\classes\gutenberg\blocks\copy-icon\js\frontend.js
+Content Type: application/x-javascript
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.23.3
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.23.3
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/x-javascript
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.23.3
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.23.3
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.23.4
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.23.4
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.23.4
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.23.4
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.23.4
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=1.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=1.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
+Content Type: application/x-javascript
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: https://wojakthewanker.com/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.svg
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\happy-elementor-addons\assets\fonts\happy-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://wojakthewanker.com/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\happy-elementor-addons\assets\fonts\happy-icons.woff
+Content Type: application/font-woff
+
+Uri: https://wojakthewanker.com/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff2
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\happy-elementor-addons\assets\fonts\happy-icons.woff2
+Content Type: font/woff2
+
+Uri: https://wojakthewanker.com/wp-content/plugins/happy-elementor-addons/assets/fonts/style.min.css?ver=3.11.2
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\happy-elementor-addons\assets\fonts\style.min.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/plugins/happy-elementor-addons/assets/js/happy-addons.min.js?ver=3.11.2
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\plugins\happy-elementor-addons\assets\js\happy-addons.min.js
+Content Type: application/x-javascript
+
+Uri: https://wojakthewanker.com/wp-content/themes/astra/assets/css/minified/main.min.css?ver=4.8.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\themes\astra\assets\css\minified\main.min.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.8.0
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\themes\astra\assets\js\minified\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://wojakthewanker.com/wp-content/uploads/2024/07/2-12-e1719468929366.png
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\uploads\2024\07\2-12-e1719468929366.png
+Content Type: image/png
+
+Uri: https://wojakthewanker.com/wp-content/uploads/2024/07/3-11-e1719557948467-1016x1024.png
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\uploads\2024\07\3-11-e1719557948467-1016x1024.png
+Content Type: image/png
+
+Uri: https://wojakthewanker.com/wp-content/uploads/2024/07/3-11-e1719557948467-150x150.png
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\uploads\2024\07\3-11-e1719557948467-150x150.png
+Content Type: image/png
+
+Uri: https://wojakthewanker.com/wp-content/uploads/2024/07/3-11-e1719557948467-1524x1536.png
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\uploads\2024\07\3-11-e1719557948467-1524x1536.png
+Content Type: image/png
+
+Uri: https://wojakthewanker.com/wp-content/uploads/2024/07/3-11-e1719557948467-298x300.png
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\uploads\2024\07\3-11-e1719557948467-298x300.png
+Content Type: image/png
+
+Uri: https://wojakthewanker.com/wp-content/uploads/2024/07/3-11-e1719557948467-768x774.png
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\uploads\2024\07\3-11-e1719557948467-768x774.png
+Content Type: image/png
+
+Uri: https://wojakthewanker.com/wp-content/uploads/2024/07/3-11-e1719557948467.png
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\uploads\2024\07\3-11-e1719557948467.png
+Content Type: image/png
+
+Uri: https://wojakthewanker.com/wp-content/uploads/2024/07/5866-e1721850129893.png
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\uploads\2024\07\5866-e1721850129893.png
+Content Type: image/png
+
+Uri: https://wojakthewanker.com/wp-content/uploads/2024/07/a-1.gif
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\uploads\2024\07\a-1.gif
+Content Type: image/gif
+
+Uri: https://wojakthewanker.com/wp-content/uploads/2024/07/cropped-3-11-e1719557948467-180x180.png
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\uploads\2024\07\cropped-3-11-e1719557948467-180x180.png
+Content Type: image/png
+
+Uri: https://wojakthewanker.com/wp-content/uploads/2024/07/cropped-3-11-e1719557948467-192x192.png
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\uploads\2024\07\cropped-3-11-e1719557948467-192x192.png
+Content Type: image/png
+
+Uri: https://wojakthewanker.com/wp-content/uploads/2024/07/cropped-3-11-e1719557948467-32x32.png
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\uploads\2024\07\cropped-3-11-e1719557948467-32x32.png
+Content Type: image/png
+
+Uri: https://wojakthewanker.com/wp-content/uploads/2024/07/token-e1719515194531-150x150.png
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\uploads\2024\07\token-e1719515194531-150x150.png
+Content Type: image/png
+
+Uri: https://wojakthewanker.com/wp-content/uploads/2024/07/token-e1719515194531-300x298.png
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\uploads\2024\07\token-e1719515194531-300x298.png
+Content Type: image/png
+
+Uri: https://wojakthewanker.com/wp-content/uploads/2024/07/token-e1719515194531.png
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\uploads\2024\07\token-e1719515194531.png
+Content Type: image/png
+
+Uri: https://wojakthewanker.com/wp-content/uploads/2024/07/WANK-Meme-GIF_v3.gif
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\uploads\2024\07\WANK-Meme-GIF_v3.gif
+Content Type: image/gif
+
+Uri: https://wojakthewanker.com/wp-content/uploads/2024/07/Wanking-Illustration.gif
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\uploads\2024\07\Wanking-Illustration.gif
+Content Type: image/gif
+
+Uri: https://wojakthewanker.com/wp-content/uploads/2024/07/Wojak-Wanking-Gif.gif
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\uploads\2024\07\Wojak-Wanking-Gif.gif
+Content Type: image/gif
+
+Uri: https://wojakthewanker.com/wp-content/uploads/elementor/css/global.css?ver=1725571631
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/uploads/elementor/css/post-11.css?ver=1725571631
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\uploads\elementor\css\post-11.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/uploads/elementor/css/post-14.css?ver=1725571631
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\uploads\elementor\css\post-14.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-content/uploads/elementor/css/post-7.css?ver=1725567064
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-content\uploads\elementor\css\post-7.css
+Content Type: text/css
+
+Uri: https://wojakthewanker.com/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/x-javascript
+
+Uri: https://wojakthewanker.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/x-javascript
+
+Uri: https://wojakthewanker.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://wojakthewanker.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://wojakthewanker.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://wojakthewanker.com/wp-json/
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://wojakthewanker.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwojakthewanker.com%2F
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://wojakthewanker.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwojakthewanker.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://wojakthewanker.com/wp-json/wp/v2/pages/11
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\wp-json\wp\v2\pages\11
+Content Type: application/json
+
+Uri: https://wojakthewanker.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\wojakthewanker.com\xmlrpc.php
+Content Type: text/xml
+

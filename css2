@@ -1,0 +1,91 @@
+﻿@font-face {
+  font-family: 'Architects Daughter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/architectsdaughter/v19/KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvfY4.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(s/kodchasan/v19/1cXqaUPOAJv9sG4I-DJWjUlIgOCs.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/kodchasan/v19/1cXqaUPOAJv9sG4I-DJWjUksg-Cs.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/kodchasan/v19/1cX3aUPOAJv9sG4I-DJWjXGA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/kodchasan/v19/1cXqaUPOAJv9sG4I-DJWjUl0guCs.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/kodchasan/v19/1cXqaUPOAJv9sG4I-DJWjUlYheCs.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/kodchasan/v19/1cXqaUPOAJv9sG4I-DJWjUk8hOCs.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(s/kodchasan/v19/1cX0aUPOAJv9sG4I-DJeR1CggQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/kodchasan/v19/1cX0aUPOAJv9sG4I-DJeI1OggQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/kodchasan/v19/1cXxaUPOAJv9sG4I-DJmjw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/kodchasan/v19/1cX0aUPOAJv9sG4I-DJee1KggQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/kodchasan/v19/1cX0aUPOAJv9sG4I-DJeV1WggQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Kodchasan';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/kodchasan/v19/1cX0aUPOAJv9sG4I-DJeM1SggQ.ttf) format('truetype');
+}
